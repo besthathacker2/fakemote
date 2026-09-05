@@ -1,4 +1,4 @@
-name: CI
+name: build
 
 permissions:
   id-token: write
