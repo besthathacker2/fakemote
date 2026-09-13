@@ -1,4 +1,4 @@
-name: build
+name: build fakemote
 
 permissions:
   id-token: write
